@@ -1,0 +1,1 @@
+ <?php echo mb_strlen('我是我是') ?>
